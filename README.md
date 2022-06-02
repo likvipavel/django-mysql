@@ -1,4 +1,5 @@
 # simple-django-project
+Pipeline to AWS ElasticBeanstalk: ![example workflow](https://github.com/likvipavel/django-mysql/actions/workflows/django.yml/badge.svg)
 ## Installation
 
 ### Prerequisites
